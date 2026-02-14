@@ -1,0 +1,10 @@
+{
+  "minimumVersion": "1.0",
+  "currentVersion": "1.0",
+  "forceUpdate": false,
+  "softUpdate": true,
+  "updateTitle": "New Version Available",
+  "updateMessage": "Update to the latest version for new features and improvements.",
+  "updateURL": "https://apps.apple.com/app/id6755204227"
+}
+
